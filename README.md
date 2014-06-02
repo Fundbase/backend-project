@@ -33,7 +33,7 @@ The following entities should be created (including proper relations):
 
 * *pizza type* - has a name and price (e.g. Margherita $5, Pepperoni $6, ...)
 * *order* - has items
-* *order item* - has a pizza type and amount
+* *order item* - has a pizza type and quantity
 
 On the homepage, list of orders with total prices should be shown.
 
