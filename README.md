@@ -2,6 +2,7 @@ Challenge for Backend Developer
 ===============================
 
 To better assess a candidate's development skills, we would like to provide the following challenge. This is intendend to be developed in a pair programming session within an hour of time.
+It's allowed to use documentation and online resources.
 
 Prerequisites
 -------------
@@ -21,12 +22,13 @@ git clone https://github.com/Fundbase/backend-project.git && cd backend-project/
 ```
 
 Generate a Rails app.
+You can add gems of your choice.
 
 Project description
 -------------------
 
 **Pizzeria**
- 
+
 The application serves the purpose of ordering pizza online.
 
 The following entities should be created (including proper relations):
