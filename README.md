@@ -1,7 +1,7 @@
 Challenge for Backend Developer
 ===============================
 
-To better assess a candidate's development skills, we would like to provide the following challenge. This is intendend to be developed in a pair programming session within an hour of time.
+To better assess a candidate's development skills, we would like to provide the following challenge. This is intended to be developed in a pair programming session within an hour of time.
 It's allowed to use documentation and online resources.
 
 Prerequisites
@@ -21,8 +21,10 @@ Clone the project
 git clone https://github.com/Fundbase/backend-project.git && cd backend-project/
 ```
 
-Generate a Rails app.
-You can add gems of your choice.
+Generate a Rails app. You can add gems of your choice, but be ready to describe them.
+
+**Please set up up your working environment before the interview (working Ruby, Rails, native libraries),
+so we don't spend time installing anything.**
 
 Project description
 -------------------
